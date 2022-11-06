@@ -1,0 +1,3 @@
+- Hi, I’m @Hydrough
+- I’m currently studying software development and I upload some projects onhere when they are complete.
+- I’m only programing in C and I amd very much a beginner as evidenced by my code.
